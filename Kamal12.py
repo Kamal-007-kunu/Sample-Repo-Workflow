@@ -6,3 +6,4 @@ a = list.pop()
 print(a)
 print("gwp")
 
+ajshdkas
