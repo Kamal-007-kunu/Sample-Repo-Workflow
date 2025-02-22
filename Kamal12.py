@@ -4,4 +4,5 @@ print(type(list))
 print(list[1])
 a = list.pop()
 print(a)
+print("gwp")
 
